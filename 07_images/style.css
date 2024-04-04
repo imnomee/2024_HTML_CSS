@@ -1,0 +1,26 @@
+div {
+    height: 300px;
+    color: white;
+}
+
+.big-img {
+    background: url('./big_images.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.small-img {
+    background: url('./img/small.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.folder-img {
+    background: url('./img/folder-img.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
