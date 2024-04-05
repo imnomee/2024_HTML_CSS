@@ -1,0 +1,20 @@
+* {
+    color: red;
+}
+div h1 {
+    color: blue;
+}
+
+div > h1 {
+    color: pink;
+}
+
+p::first-line {
+    font-weight: bold;
+}
+p::first-letter {
+    font-size: 10rem;
+}
+P::first-letter {
+    color: blue;
+}

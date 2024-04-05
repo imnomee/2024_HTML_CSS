@@ -26,6 +26,20 @@ background-color can only have color property in it
 (rgba): rgba(red, green, blue, alpha)
 (hex): background-color: #ff0000;
 
+### Positiion
+
+static: default behaviour
+relative: relative to its current position and no other element will take its place
+absolute: relative to its parent and parents relative positions, if no parent has it a relative position, it will go for the bodys position. Other elements will take place of this element
+
+### media queries
+
+Responsive Design
+Style element on different screen sizes
+min-width: starting from
+max-with: up to
+mobile first
+
 ### Units
 
 em = 16px
@@ -42,8 +56,11 @@ double dagger === &Dagger;
 ### codes
 
 (color names)[https://www.w3schools.com/cssref/css_colors.php]
+(gradient generator)[https://www.colorzilla.com/gradient-editor/]
 (coolors)[https://coolors.co/]
 (codes site)[https://www.html.am/reference/html-special-characters.cfm]
+(image placeholder)[https://placehold.co/]
+(font awesome cdn)[https://cdnjs.com/libraries/font-awesome]
 
 ### Forms
 
