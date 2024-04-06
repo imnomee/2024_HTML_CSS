@@ -202,13 +202,13 @@ p {
     overflow: hidden;
 }
 
-.about-img {
+.about-picture {
     transition: var(--transition);
 }
 
 .about-picture-container:hover .about-picture {
     opacity: 0.5;
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 .about-text {
     max-width: 26rem;
@@ -282,6 +282,21 @@ p {
     padding: 0.375 0.5rem;
     font-weight: 400;
     margin-top: 1.25rem;
+}
+.service-img-container {
+    position: relative;
+}
+.service-icon {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    bottom: 0;
+    font-size: 2rem;
+    color: var(--clr-primary);
+    background: var(--clr-primary-light);
+    padding: 0.5rem;
+    border-radius: 50%;
+    border: 0.375rem solid var(--clr-grey-10);
 }
 /* services */
 
