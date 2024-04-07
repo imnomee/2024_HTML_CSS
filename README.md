@@ -61,6 +61,7 @@ double dagger === &Dagger;
 (codes site)[https://www.html.am/reference/html-special-characters.cfm]
 (image placeholder)[https://placehold.co/]
 (font awesome cdn)[https://cdnjs.com/libraries/font-awesome]
+(favicon)[https://favicon.io/]
 
 ### testing services
 
@@ -80,3 +81,11 @@ double dagger === &Dagger;
 (pexels)[https://www.pexels.com/]
 (pixabay)[https://pixabay.com/]
 (gratisography)[https://gratisography.com/]
+
+### emmet
+
+.box.box-${$}\*5
+
+### flex
+
+children: flex: flex-grow(1) flex-shrink(0) flex-basis(200)
