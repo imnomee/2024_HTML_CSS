@@ -62,6 +62,15 @@ double dagger === &Dagger;
 (image placeholder)[https://placehold.co/]
 (font awesome cdn)[https://cdnjs.com/libraries/font-awesome]
 
+### testing services
+
+(mailgolem for fake email)[https://mailgolem.com/]
+(maildump for checking emails on domains)[https://maildump.co/]
+(verify email address)[https://mailinput.com/]
+(fake SMTP testing)[https://mailcoat.com/]
+(interesting tools)[https://devrolabs.com/products-landing-page]
+(netlify)[https://www.netlify.com/]
+
 ### Forms
 
 (formspree)[https://formspree.io/]
