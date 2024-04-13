@@ -53,8 +53,6 @@ double dagger === &Dagger;
 
 ### HELPFUL SITES
 
-### codes
-
 (color names)[https://www.w3schools.com/cssref/css_colors.php]
 (gradient generator)[https://www.colorzilla.com/gradient-editor/]
 (coolors)[https://coolors.co/]
