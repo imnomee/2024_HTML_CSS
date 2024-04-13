@@ -55,11 +55,14 @@ double dagger === &Dagger;
 
 (color names)[https://www.w3schools.com/cssref/css_colors.php]
 (gradient generator)[https://www.colorzilla.com/gradient-editor/]
+(css gradient)[https://cssgradient.io/]
 (coolors)[https://coolors.co/]
+(gradient generator)[https://www.colorzilla.com/]
 (codes site)[https://www.html.am/reference/html-special-characters.cfm]
 (image placeholder)[https://placehold.co/]
 (font awesome cdn)[https://cdnjs.com/libraries/font-awesome]
 (favicon)[https://favicon.io/]
+(resend emails)[https://resend.com/pricing]
 
 ### testing services
 
