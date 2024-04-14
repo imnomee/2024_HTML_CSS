@@ -61,8 +61,11 @@ double dagger === &Dagger;
 (codes site)[https://www.html.am/reference/html-special-characters.cfm]
 (image placeholder)[https://placehold.co/]
 (font awesome cdn)[https://cdnjs.com/libraries/font-awesome]
+(font awesome icons)[https://fontawesome.com/]
 (favicon)[https://favicon.io/]
 (resend emails)[https://resend.com/pricing]
+(can i use)[https://caniuse.com/]
+(css tricks)[https://css-tricks.com/a-complete-guide-to-css-gradients/#h-conic-gradients]
 
 ### testing services
 

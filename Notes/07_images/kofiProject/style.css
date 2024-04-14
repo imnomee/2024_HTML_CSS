@@ -31,10 +31,17 @@ body {
 .hero {
     background: repeating-linear-gradient(
             45deg,
-            rgb(3, 102, 3, 0.9),
-            rgb(3, 102, 3, 0.6) 10px,
-            rgba(3, 102, 3, 0.3) 10px,
-            rgba(3, 102, 3, 0) 20px
+            rgb(255, 102, 3, 0.9),
+            rgb(3, 102, 3, 0.6) 5px,
+            rgba(3, 102, 3, 0.3) 5px,
+            rgba(255, 102, 3, 0) 20px
+        ),
+        repeating-linear-gradient(
+            135deg,
+            rgb(102, 255, 3, 0.9),
+            rgb(102, 3, 3, 0.6) 5px,
+            rgba(102, 3, 3, 0.3) 5px,
+            rgba(102, 255, 3, 0) 20px
         ),
         url(../img/folder-img.jpeg) center/cover;
     min-height: calc(100vh - 5rem);
