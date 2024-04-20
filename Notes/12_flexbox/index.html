@@ -7,12 +7,37 @@
         <title>Flexbox</title>
         <style>
             .container {
+                /* height: 100vh; */
                 display: flex;
+                /*
+                flex-direction: row;
+                /* flex-direction: row-reverse; */
+                /* flex-direction: column; */
+                /* flex-direction: column-reverse; */
+                /* flex-wrap: wrap; */
+                /* flex-wrap: nowrap;
+                flex-wrap: wrap-reverse; */
+                /* justify-content: flex-start; */
+                /* justify-content: center; /* */
+                /* justify-content: flex-end; */
+                /* justify-content: space-around; */
+                /* justify-content: space-evenly; */
+                /* justify-content: space-between; */
+                /* align-items: flex-start; */
+                /* align-items: flex-end; */
+                /* align-items: center; */
+                /*align-items: baseline; /*baseline is the bottom of character */
+                /* align-items: stretch; */
+                /* align-content: center;
+                align-content: flex-end; */
+                /* align-content: flex-start; */ /*
+                align-self: flex-start; */
                 flex-wrap: wrap;
-                gap: 0.5rem;
+                justify-content: space-between;
+                gap: 1%;
             }
             .box {
-                flex: 1 0 calc(25% - 1rem);
+                flex: 0 0 24%;
             }
         </style>
     </head>
@@ -23,7 +48,11 @@
             <div class="box box-3">3</div>
             <div class="box box-4">4</div>
             <div class="box box-5">5</div>
+            <!-- <div class="box box-6">6</div>
+            <div class="box box-7">7</div>
+            <div class="box box-8">8</div>
+            <div class="box box-9">9</div> -->
         </div>
-        <a href="./heroProject/index.html">Banner</a>
+        <a href="./flexHeroProject/index.html">Flex Project</a>
     </body>
 </html>
