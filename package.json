@@ -1,25 +1,16 @@
 {
-    "name": "2024_html_css",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "dev": "nodemon server.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/imnomee/2024_HTML_CSS.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "type": "module",
-    "bugs": {
-        "url": "https://github.com/imnomee/2024_HTML_CSS/issues"
-    },
-    "homepage": "https://github.com/imnomee/2024_HTML_CSS#readme",
-    "dependencies": {
-        "express": "^5.1.0"
-    }
+  "name": "htmx-for-beginners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "type": "module"
 }
